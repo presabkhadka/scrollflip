@@ -123,4 +123,4 @@ Contributions are welcome. Open an issue or a pull request.
 
 ## License
 
-MIT
+MIT. See [LICENSE](LICENSE).
